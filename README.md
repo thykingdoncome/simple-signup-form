@@ -1,2 +1,2 @@
-# simple-signup-form
-simple registration form with HTML and CSS (a clone of intuit sign up page: https://accounts.intuit.com/signup.html )
+# HTML-Forms
+This project consists of building an HTML document that matches the appearance of mint.com’s signup page
